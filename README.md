@@ -25,8 +25,8 @@
   <img
     src="https://i.ibb.co/hxHYX8ZF/Eu-Avatar.png"
     alt="Avatar José Lindembergue"
-    width="150"
-    height="150"
+    width="350"
+    height="350"
     style="border-radius:50%;border:3px solid #ffffff;box-shadow:0 4px 12px rgba(0,0,0,0.3);"
   />
 </p>
@@ -130,7 +130,7 @@ Gerenciamento completo de consultas escolares:
 
 ## 📊 Visitantes & Estatísticas Dinâmicas
 <p align="center">
-  ![Profile Views](https://visitor-badge.la/badge?page_id=Lindemberguee.Lindemberguee&style=flat-square)
+  <!-- Spotify Recently Played -->
   ![Spotify Recentemente Tocadas](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=26zq9blk3bjem6gk4zinrifwk&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=09ff00&bar_color_cover=true)
 </p>
 
