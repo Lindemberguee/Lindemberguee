@@ -24,7 +24,7 @@
 
 <p align="center">
   <img
-    src="https://freeimage.host/i/FeZAUts"
+    src="https://iili.io/FeZAUts.png"
     alt="José Lindembergue"
     style="width:150px; height:auto; border-radius:10px; border:3px solid #ffffff; box-shadow:0 4px 12px rgba(0,0,0,0.3);"
   >
