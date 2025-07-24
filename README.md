@@ -129,17 +129,13 @@ Gerenciamento completo de consultas escolares:
 ---
 
 ## 📊 Visitantes & Estatísticas Dinâmicas
-<p align="center">
-  <!-- Spotify Recently Played -->
-  ![Spotify Recentemente Tocadas](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=26zq9blk3bjem6gk4zinrifwk&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=09ff00&bar_color_cover=true)
-</p>
+
 
 ---
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lindemberguee&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lindemberguee&layout=compact&theme=dark" alt="Top Languages" />
+  ![Spotify Recentemente Tocadas](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=26zq9blk3bjem6gk4zinrifwk&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=09ff00&bar_color_cover=true)
 </p>
 
 ---
