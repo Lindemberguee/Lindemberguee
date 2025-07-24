@@ -26,11 +26,6 @@
   <img
     src="https://i.ibb.co/hxHYX8ZF/Eu-Avatar.png"
     alt="Avatar José Lindembergue"
-    width="150"
-    height="150"
-    style="border-radius: 50%;        /* círcular */
-           border: 3px solid #ffffff; /* borda branca */
-           box-shadow: 0 4px 12px rgba(0,0,0,0.3);" /* sombra suave */
   />
 </p>
 
