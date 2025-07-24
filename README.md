@@ -44,17 +44,6 @@
 
 ---
 
-## 📊 Skills & Proficiência
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 90%">
-  <img src="https://img.shields.io/badge/CSS3-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 85%">
-  <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 80%">
-  <img src="https://img.shields.io/badge/Node.js-75%25-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js 75%">
-  <img src="https://img.shields.io/badge/React.js-70%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js 70%">
-  <img src="https://img.shields.io/badge/Next.js-65%25-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js 65%">
-</p>
-
 ---
 
 ## 🚀 Projetos em Destaque
