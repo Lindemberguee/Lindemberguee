@@ -1,6 +1,6 @@
 <!-- Banner Animado / GIF de Boas‑Vindas -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/111111/FFFFFF?text=Bem-vindo+ao+meu+GitHub!+-+José+Lindembergue" 
+  <img src="[https://via.placeholder.com/1200x300/111111](https://fiverr-res.cloudinary.com/images/f_auto,q_auto,t_main1/v1/attachments/delivery/asset/41f42ffb8825a7c57ff4810593e5ba5d-1677459265/Light%20bulb/do-an-animated-pixel-art-banner-for-youtube-twitch-a-videogame-etc.gif)/FFFFFF?text=Bem-vindo+ao+meu+GitHub!+-+José+Lindembergue" 
        alt="Banner Animado" />
 </p>
 
