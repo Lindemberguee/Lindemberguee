@@ -45,16 +45,28 @@
 
 ---
 
-## 📊 Skills
+## 📊 Skills & Proficiência
 
-| Tecnologia | Progresso     |
-| ---------- | ------------- |
-| HTML5      | █████████ 90% |
-| CSS3       | ████████ 85%  |
-| JavaScript | ████████ 80%  |
-| Node.js    | ███████ 75%   |
-| React.js   | ███████ 70%   |
-| Next.js    | ██████ 65%    |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,nextjs,mongodb,mysql,docker" alt="Tecnologias" />
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/90/?title=HTML5&color=E34F26" width="200" alt="HTML5 - 90%" />
+  <img src="https://progress-bar.dev/85/?title=CSS3&color=1572B6" width="200" alt="CSS3 - 85%" />
+  <img src="https://progress-bar.dev/80/?title=JavaScript&color=F7DF1E" width="200" alt="JavaScript - 80%" />
+  <img src="https://progress-bar.dev/75/?title=Node.js&color=339933" width="200" alt="Node.js - 75%" />
+  <img src="https://progress-bar.dev/70/?title=React.js&color=61DAFB" width="200" alt="React.js - 70%" />
+  <img src="https://progress-bar.dev/65/?title=Next.js&color=000000" width="200" alt="Next.js - 65%" />
+</p>
+
+\---------------|-----------|
+\| HTML5         | █████████ 90% |
+\| CSS3          | ████████ 85% |
+\| JavaScript    | ████████ 80% |
+\| Node.js       | ███████ 75% |
+\| React.js      | ███████ 70% |
+\| Next.js       | ██████ 65% |
 
 ---
 
