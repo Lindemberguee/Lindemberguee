@@ -82,7 +82,7 @@
 ## 🎧 Spotify "Now Playing"
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=26zq9blk3bjem6gk4zinrifwk&redirect=true&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=09ff00&bar_color_cover=true" width="400">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=26zq9blk3bjem6gk4zinrifwk&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=09ff00&bar_color_cover=true">
 </p>
 
 ---
@@ -101,7 +101,7 @@
 | 🚧 Cargo/Instituição                         | 📅 Período | 🎯 Detalhes                                       |
 | -------------------------------------------- | ---------- | ------------------------------------------------- |
 | **Analista TI Pleno** - Instituto Verdescola | 2021–Atual | Desenvolvimento e automação de sistemas internos. |
-| **ADS** - Universidade XYZ                   | 2023–2026  | Focado em Desenvolvimento Web Full-Stack.         |
+| **ADS** - Universidade Uninter                   | 2023–2026  | Focado em Desenvolvimento Web Full-Stack.         |
 
 ---
 
