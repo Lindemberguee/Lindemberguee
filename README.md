@@ -22,7 +22,7 @@
 ## 📷 Sobre Mim
 
 <p align="center">
-  <img src="https://i.ibb.co/hxHYX8ZF/Eu-Avatar.png" alt="José Lindembergue" width="150" style="border-radius:50%;border:3px solid #ffffff;box-shadow:0 4px 12px rgba(0,0,0,0.3);">
+  <img src="https://i.ibb.co/hxHYX8ZF/Eu-Avatar.png" alt="José Lindembergue">
 </p>
 
 * 🏢 Atualmente Analista de TI Pleno no **Instituto Verdescola** (desde 2021).
