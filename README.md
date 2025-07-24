@@ -1,12 +1,11 @@
 <!-- Banner Animado / GIF de Boas‑Vindas -->
 <p align="center">
   <img 
-    src="https://fiverr-res.cloudinary.com/images/f_auto,q_auto,t_main1/v1/attachments/delivery/asset/41f42ffb8825a7c57ff4810593e5ba5d-1677459265/Light%20bulb/do-an-animated-pixel-art-banner-for-youtube-twitch-a-videogame-etc.gif" 
+    src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" 
     alt="Banner Animado José Lindembergue" 
     width="100%" 
   />
 </p>
-
 
 <!-- Marquee / Efeito de Texto em Movimento -->
 <marquee behavior="scroll" direction="left" scrollamount="6">
@@ -156,8 +155,7 @@
 ## 📜 Timeline de Carreira
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lindemberguee/timeline-widget/main/timeline.svg" 
-       alt="Timeline de Carreira" />
+  <img src="https://raw.githubusercontent.com/Lindemberguee/timeline-widget/main/timeline.svg" alt="Timeline de Carreira" />
 </p>
 
 ---
