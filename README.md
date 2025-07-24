@@ -98,10 +98,10 @@
 
 ## 💼 Experiência & Formação
 
-| 🚧 Cargo/Instituição                         | 📅 Período | 🎯 Detalhes                                       |
-| -------------------------------------------- | ---------- | ------------------------------------------------- |
-| **Analista TI Pleno** - Instituto Verdescola | 2021–Atual | Desenvolvimento e automação de sistemas internos. |
-| **ADS** - Universidade Uninter                   | 2023–2026  | Focado em Desenvolvimento Web Full-Stack.         |
+| 🚧 Cargo/Instituição                         | 📅 Período | 🎯 Detalhes                                                                                                                                                                                                                                            |
+| -------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Analista TI Pleno** - Instituto Verdescola | 2021–Atual | Atuação focada em infraestrutura de TI (switches, servidores, desktops, notebooks, helpdesk), além do desenvolvimento web, automação de tarefas internas (preenchimento de planilhas e formulários dinâmicos) e criação de sites/páginas em WordPress. |
+| **ADS** - Universidade Uninter                   | 2023–2026  | Focado em Desenvolvimento Web Full-Stack.                                                                                                                                                                                                              |
 
 ---
 
