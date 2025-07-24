@@ -135,10 +135,11 @@
 ## 📊 Visitantes & Estatísticas Dinâmicas
 
 <p align="center">
-  <!-- Contador de Visitas -->
+  <!-- Contador de visitas GitHub -->
   ![Profile Views](https://komarev.com/ghpvc/?username=Lindemberguee&style=flat-square)
-  <!-- Spotify Recentemente Tocadas -->
-  ![Spotify Recently Played](https://spotify-readme.now.sh/api/26zq9blk3bjem6gk4zinrifwk)
+
+  <!-- Spotify Recently Played -->
+  ![Spotify Recentemente Tocadas](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=26zq9blk3bjem6gk4zinrifwk&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=09ff00&bar_color_cover=true)
 </p>
 
 ---
