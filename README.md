@@ -138,7 +138,7 @@
   <!-- Contador de Visitas -->
   ![Profile Views](https://komarev.com/ghpvc/?username=Lindemberguee&style=flat-square)
   <!-- Spotify Recentemente Tocadas -->
-  ![Spotify Recently Played](https://spotify-readme.now.sh/api/SEU_SPOTIFY_USER_ID)
+  ![Spotify Recently Played](https://spotify-readme.now.sh/api/26zq9blk3bjem6gk4zinrifwk)
 </p>
 
 ---
